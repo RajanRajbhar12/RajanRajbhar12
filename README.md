@@ -13,7 +13,7 @@ I'm diving deep into advanced AI concepts and sharpening my skills in **web tech
 ### 💡 Projects I'm working on:
 - **QuizWiz**: An AI-powered quiz generator with custom question formats, built for seamless learning and testing.
 - **FoodWiz**: A recipe generation platform that whips up creative meal ideas using AI.
-- **JobSwipe**: A platform where job seekers and employers can match with a simple swipe, just like a dating app – but for jobs! 😉
+
 
 ### 💞️ Let's collaborate:
 I'm open to collaborating on anything related to **AI**, **web development**, or **creative tech solutions**. Got a project idea? Let’s make it happen! I’m always excited to explore new opportunities.
@@ -24,8 +24,7 @@ Feel free to reach out to me via email, or let's connect on [LinkedIn](#).
 ### 😄 Pronouns:
 He/Him
 
-### ⚡ Fun fact:
-I once built a card game website where users can interact, bluff, and strategize, all while enjoying a game that's part UNO, part poker! Oh, and I'm on a mission to create 10 websites that can earn **₹1000 daily** each! 💻💰
+
 
 <!---
 RajanRajbhar12/RajanRajbhar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
